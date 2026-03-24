@@ -29,7 +29,7 @@ const quizData = [
     { id: 21, kanji: "紅茶", furigana: "こうちゃ", options: ["红茶", "日本茶", "乌龙茶", "奶茶"], correctAnswer: "红茶" },
     { id: 22, kanji: "牛乳", furigana: "ぎゅうにゅう", options: ["牛奶", "水", "果汁", "啤酒"], correctAnswer: "牛奶" },
     { id: 23, kanji: "果汁", furigana: "ジュース", options: ["果汁", "啤酒", "水", "可乐"], correctAnswer: "果汁" },
-    { id: 24, kanji: "ビール", furigana: "ビール", options: ["啤酒", "果汁", "酒", "红茶"], correctAnswer: "啤酒" },
+    { id: 24, kanji: "ビール", furigana: "ビール", options: ["啤酒", "果汁", "白酒", "红茶"], correctAnswer: "啤酒" },
     { id: 25, kanji: "お酒", furigana: "おさけ", options: ["酒、日本酒", "啤酒", "水", "红茶"], correctAnswer: "酒、日本酒" },
     { id: 26, kanji: "映画", furigana: "えいが", options: ["电影", "录像带", "电视", "照片"], correctAnswer: "电影" },
     { id: 27, kanji: "手紙", furigana: "てがみ", options: ["信", "报告", "照片", "字典"], correctAnswer: "信" },
@@ -39,7 +39,7 @@ const quizData = [
     { id: 31, kanji: "お花見", furigana: "おはなみ", options: ["看花、赏花", "散步", "做作业", "看电影"], correctAnswer: "看花、赏花" },
     { id: 32, kanji: "一緒に", furigana: "いっしょに", options: ["一起", "经常", "有时", "一点儿"], correctAnswer: "一起" },
     { id: 33, kanji: "ちょっと", furigana: "ちょっと", options: ["一会儿、一点儿", "经常", "然后", "稍微"], correctAnswer: "一会儿、一点儿" },
-    { id: 34, kanji: "いつも", furigana: "いつも", options: ["经常、总是", "有时", "经常", "总是"], correctAnswer: "经常、总是" },
+    { id: 34, kanji: "いつも", furigana: "いつも", options: ["经常、总是", "有时", "很少", "不怎么"], correctAnswer: "经常、总是" },
     { id: 35, kanji: "時々", furigana: "ときどき", options: ["有时", "经常", "总是", "从来不"], correctAnswer: "有时" },
     { id: 36, kanji: "それから", furigana: "それから", options: ["然后", "但是", "所以", "之后"], correctAnswer: "然后" }
 ];
