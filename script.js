@@ -41,7 +41,7 @@ const quizData = [
     { id: 33, kanji: "ちょっと", furigana: "ちょっと", options: ["一会儿、一点儿", "经常", "然后", "非常"], correctAnswer: "一会儿、一点儿" },
     { id: 34, kanji: "いつも", furigana: "いつも", options: ["经常、总是", "有时", "很少", "不怎么"], correctAnswer: "经常、总是" },
     { id: 35, kanji: "時々", furigana: "ときどき", options: ["有时", "经常", "总是", "从来不"], correctAnswer: "有时" },
-    { id: 36, kanji: "それから", furigana: "それから", options: ["然后", "但是", "所以", "之后"], correctAnswer: "然后" }
+    { id: 36, kanji: "それから", furigana: "それから", options: ["然后", "但是", "所以", "因为"], correctAnswer: "然后" }
 ];
 
 // 中間地点の計算（単語を増やしても自動で半分を計算します）
