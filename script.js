@@ -38,7 +38,7 @@ const quizData = [
     { id: 30, kanji: "宿題", furigana: "しゅくだい", options: ["作业", "报告", "考试", "工作"], correctAnswer: "作业" },
     { id: 31, kanji: "お花見", furigana: "おはなみ", options: ["看花、赏花", "散步", "做作业", "看电影"], correctAnswer: "看花、赏花" },
     { id: 32, kanji: "一緒に", furigana: "いっしょに", options: ["一起", "经常", "有时", "一点儿"], correctAnswer: "一起" },
-    { id: 33, kanji: "ちょっと", furigana: "ちょっと", options: ["一会儿、一点儿", "经常", "然后", "稍微"], correctAnswer: "一会儿、一点儿" },
+    { id: 33, kanji: "ちょっと", furigana: "ちょっと", options: ["一会儿、一点儿", "经常", "然后", "非常"], correctAnswer: "一会儿、一点儿" },
     { id: 34, kanji: "いつも", furigana: "いつも", options: ["经常、总是", "有时", "很少", "不怎么"], correctAnswer: "经常、总是" },
     { id: 35, kanji: "時々", furigana: "ときどき", options: ["有时", "经常", "总是", "从来不"], correctAnswer: "有时" },
     { id: 36, kanji: "それから", furigana: "それから", options: ["然后", "但是", "所以", "之后"], correctAnswer: "然后" }
